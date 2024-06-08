@@ -159,4 +159,7 @@
   ('typing', 'D:\\Python\\Lib\\typing.py', 'PYMODULE'),
   ('urllib', 'D:\\Python\\Lib\\urllib\\__init__.py', 'PYMODULE'),
   ('urllib.parse', 'D:\\Python\\Lib\\urllib\\parse.py', 'PYMODULE'),
+  ('win32con',
+   'D:\\files\\PYTHON\\quickStartWindows\\.venv\\Lib\\site-packages\\win32\\lib\\win32con.py',
+   'PYMODULE'),
   ('zipfile', 'D:\\Python\\Lib\\zipfile.py', 'PYMODULE')])
